@@ -1,0 +1,14 @@
+## Requirements
+Run the project in a Jupyter Notebook environment with the following libraries:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `plotly`
+- `scikit-learn`
+- `mlxtend`
+
+Install the required libraries with:
+```bash
+pip install ----> pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, mlxtend
